@@ -14,7 +14,7 @@ For Me:
 
 ## Code
 1. Outlier Detection Package - consolidate data outlier collection to an easy to use package for data scientists
-2. Fature Engineering - Constructed software package that generated 36-dimensional diagnoses embeddings for use in ML models
+2. Feature Engineering - Constructed software package that generated 36-dimensional diagnoses embeddings for use in ML models
 3. Skin Cancer Classifier - Given patient lesion images taken with a dermatoscope, classify skin cancer into   Melanocytic nevi, Melanoma, Benign keratosis-like lesions , Basal cell carcinoma, Actinic keratoses, Vascular lesions, or Dermatofibroma. Acheived 84% accuracy. 
 
 
